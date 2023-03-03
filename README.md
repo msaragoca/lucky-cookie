@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O desafio foi foi para entender como criar uma lógica para alterar as telas, mostrando determinado conteúdo em uma e um novo conteúdo na outra..
+O desafio foi foi para entender como criar uma lógica para alterar as telas, mostrando determinado conteúdo em uma e um novo conteúdo na outra.
 
 ## 🔖 Layout
 
